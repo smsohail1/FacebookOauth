@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook Oauth</string>
+    <string name="app_id">180609892365245</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
